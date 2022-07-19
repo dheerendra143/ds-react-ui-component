@@ -1,5 +1,5 @@
 {
-  "name": "react-ui-component",
+  "name": "ds-react-ui-component",
   "description": "React UI Input components",
   "author": "dheerendra singh",
   "keywords": [
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dheerendra143/react-ui-component.git"
+    "url": "git+https://github.com/dheerendra143/ds-react-ui-component.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
